@@ -6,7 +6,7 @@
 
 .. _OCaml: http://caml.inria.fr/
 
-.. _Camlp4: http://brion.inria.fr/gallium/index.php/Camlp4
+.. _Camlp4: https://github.com/camlp4/camlp4
 
 .. _Lispy Macros: http://letoverlambda.com/
 
@@ -42,6 +42,6 @@
 
 .. _Cfront: http://en.wikipedia.org/wiki/Cfront
 
-.. _Altjs: http://altjs.org/
+.. _Altjs: https://smurfpandey.github.io/altjs/
 
-.. _omake: http://omake.metaprl.org/manual/omake-doc.html
+.. _omake: https://github.com/ocaml-omake/omake
